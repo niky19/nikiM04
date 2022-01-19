@@ -1,0 +1,2 @@
+La práctica me ha gustado porque me ha ayudado a entender mejor la importancia de estructurar bien los archivos html para posteriormente poder hacer el css de forma más limpia. He tenido dificultades con las múltiples formas de 'display' en css y también con el modelo de caja. 
+Lo que más me ha gustado ha sido ver el proceso que iba haciendo, como con cada avance la página se ve más bonita hasta tener el resultado final. Me ha resultado interesante.
